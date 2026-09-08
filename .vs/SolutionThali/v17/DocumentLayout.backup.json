@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\classthalitests\\miniexcursiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|solutionrelative:classthalitests\\miniexcursiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\classthalitests\\etapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|solutionrelative:classthalitests\\etapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|c:\\users\\sophi\\desktop\\annee2026-2027\\b2_slam_sio2\\tp\\01tp_poo_c#\\thali\\etud_solutionthali\\classthali\\planningjournee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|solutionrelative:classthali\\planningjournee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\classthali\\miniexcursionplanifiee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|solutionrelative:classthali\\miniexcursionplanifiee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\classthali\\miniexcursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|solutionrelative:classthali\\miniexcursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\classthali\\etape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|solutionrelative:classthali\\etape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiniExcursionTests.cs",
+              "DocumentMoniker": "C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\ClassThaliTests\\MiniExcursionTests.cs",
+              "RelativeDocumentMoniker": "ClassThaliTests\\MiniExcursionTests.cs",
+              "ToolTip": "C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\ClassThaliTests\\MiniExcursionTests.cs",
+              "RelativeToolTip": "ClassThaliTests\\MiniExcursionTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:50:53.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EtapeTests.cs",
+              "DocumentMoniker": "C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\ClassThaliTests\\EtapeTests.cs",
+              "RelativeDocumentMoniker": "ClassThaliTests\\EtapeTests.cs",
+              "ToolTip": "C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\ClassThaliTests\\EtapeTests.cs",
+              "RelativeToolTip": "ClassThaliTests\\EtapeTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:52:09.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiniExcursion.cs",
+              "DocumentMoniker": "C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\ClassThali\\MiniExcursion.cs",
+              "RelativeDocumentMoniker": "ClassThali\\MiniExcursion.cs",
+              "ToolTip": "C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\ClassThali\\MiniExcursion.cs",
+              "RelativeToolTip": "ClassThali\\MiniExcursion.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:32:08.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiniExcursionPlanifiee.cs",
+              "DocumentMoniker": "C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\ClassThali\\MiniExcursionPlanifiee.cs",
+              "RelativeDocumentMoniker": "ClassThali\\MiniExcursionPlanifiee.cs",
+              "ToolTip": "C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\ClassThali\\MiniExcursionPlanifiee.cs",
+              "RelativeToolTip": "ClassThali\\MiniExcursionPlanifiee.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:28:33.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanningJournee.cs",
+              "DocumentMoniker": "C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\ClassThali\\PlanningJournee.cs",
+              "RelativeDocumentMoniker": "ClassThali\\PlanningJournee.cs",
+              "ToolTip": "C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\ClassThali\\PlanningJournee.cs",
+              "RelativeToolTip": "ClassThali\\PlanningJournee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:26:20.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Etape.cs",
+              "DocumentMoniker": "C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\ClassThali\\Etape.cs",
+              "RelativeDocumentMoniker": "ClassThali\\Etape.cs",
+              "ToolTip": "C:\\Users\\sophi\\Desktop\\Annee2026-2027\\B2_SLAM_SIO2\\TP\\01TP_POO_C#\\THALI\\Etud_SolutionThali\\ClassThali\\Etape.cs",
+              "RelativeToolTip": "ClassThali\\Etape.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:21:46.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

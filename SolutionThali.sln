@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassThali", "ClassThali\ClassThali.csproj", "{AB420F37-F99D-4837-85F5-37103EA36AE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{495D0E57-1B8D-445B-90CB-965C79707406}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		SolutionThali.vsmdi = SolutionThali.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassThaliTests", "ClassThaliTests\ClassThaliTests.csproj", "{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB420F37-F99D-4837-85F5-37103EA36AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB420F37-F99D-4837-85F5-37103EA36AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB420F37-F99D-4837-85F5-37103EA36AE3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{AB420F37-F99D-4837-85F5-37103EA36AE3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{AB420F37-F99D-4837-85F5-37103EA36AE3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AB420F37-F99D-4837-85F5-37103EA36AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB420F37-F99D-4837-85F5-37103EA36AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB420F37-F99D-4837-85F5-37103EA36AE3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{AB420F37-F99D-4837-85F5-37103EA36AE3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{AB420F37-F99D-4837-85F5-37103EA36AE3}.Release|x86.ActiveCfg = Release|Any CPU
+		{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}.Debug|x86.Build.0 = Debug|Any CPU
+		{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}.Release|x86.ActiveCfg = Release|Any CPU
+		{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A12067F5-3A21-4C23-971D-24C4CFA5F281}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = SolutionThali.vsmdi
+	EndGlobalSection
+EndGlobal

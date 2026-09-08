@@ -1,0 +1,90 @@
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM45\TD_TP\TP03_Collections_TU_Java\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.dll
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM45\TD_TP\TP03_Collections_TU_Java\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.pdb
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM45\TD_TP\TP03_Collections_TU_Java\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.dll
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM45\TD_TP\TP03_Collections_TU_Java\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM45\TD_TP\TP03_Collections_TU_Java\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.pdb
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM45\TD_TP\TP03_Collections_TU_Java\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csprojAssemblyReference.cache
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM45\TD_TP\TP03_Collections_TU_Java\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CoreCompileInputs.cache
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM45\TD_TP\TP03_Collections_TU_Java\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CopyComplete
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM45\TD_TP\TP03_Collections_TU_Java\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.dll
+C:\Users\sophie\Desktop\Annee2018_2019\SLAM45\TD_TP\TP03_Collections_TU_Java\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.pdb
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_IHM\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csprojAssemblyReference.cache
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_IHM\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CoreCompileInputs.cache
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_IHM\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.dll
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_IHM\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.pdb
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_IHM\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.dll
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_IHM\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.pdb
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_IHM\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.dll
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_IHM\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_IHM\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.pdb
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_IHM\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CopyComplete
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_UC et IHM\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.dll
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_UC et IHM\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.pdb
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_UC et IHM\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.dll
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_UC et IHM\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_UC et IHM\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.pdb
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_UC et IHM\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csprojAssemblyReference.cache
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_UC et IHM\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CoreCompileInputs.cache
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_UC et IHM\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CopyComplete
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_UC et IHM\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.dll
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM45\TD_TP\02TP_Collections_TU_UC et IHM\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.pdb
+C:\Users\sophie\Desktop\Annee2020-2021\SLAM45\TD_TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.dll
+C:\Users\sophie\Desktop\Annee2020-2021\SLAM45\TD_TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.pdb
+C:\Users\sophie\Desktop\Annee2020-2021\SLAM45\TD_TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.dll
+C:\Users\sophie\Desktop\Annee2020-2021\SLAM45\TD_TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sophie\Desktop\Annee2020-2021\SLAM45\TD_TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.pdb
+C:\Users\sophie\Desktop\Annee2020-2021\SLAM45\TD_TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csprojAssemblyReference.cache
+C:\Users\sophie\Desktop\Annee2020-2021\SLAM45\TD_TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CoreCompileInputs.cache
+C:\Users\sophie\Desktop\Annee2020-2021\SLAM45\TD_TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CopyComplete
+C:\Users\sophie\Desktop\Annee2020-2021\SLAM45\TD_TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.dll
+C:\Users\sophie\Desktop\Annee2020-2021\SLAM45\TD_TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.pdb
+C:\Users\sophie\Desktop\Annee2021-2022\B2_B3_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.dll
+C:\Users\sophie\Desktop\Annee2021-2022\B2_B3_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.pdb
+C:\Users\sophie\Desktop\Annee2021-2022\B2_B3_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.dll
+C:\Users\sophie\Desktop\Annee2021-2022\B2_B3_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sophie\Desktop\Annee2021-2022\B2_B3_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.pdb
+C:\Users\sophie\Desktop\Annee2021-2022\B2_B3_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csprojAssemblyReference.cache
+C:\Users\sophie\Desktop\Annee2021-2022\B2_B3_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CoreCompileInputs.cache
+C:\Users\sophie\Desktop\Annee2021-2022\B2_B3_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CopyComplete
+C:\Users\sophie\Desktop\Annee2021-2022\B2_B3_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.dll
+C:\Users\sophie\Desktop\Annee2021-2022\B2_B3_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.pdb
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.dll
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.pdb
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.dll
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.pdb
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.AssemblyReference.cache
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CoreCompileInputs.cache
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CopyComplete
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.dll
+C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.pdb
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.dll
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.pdb
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.dll
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.pdb
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.AssemblyReference.cache
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CoreCompileInputs.cache
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassTha.61DBF0F0.Up2Date
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.dll
+C:\Users\sophi\Desktop\Annee2024-2025\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.pdb
+C:\Users\sophi\Desktop\Annee2025-2026\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.dll
+C:\Users\sophi\Desktop\Annee2025-2026\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.pdb
+C:\Users\sophi\Desktop\Annee2025-2026\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.dll
+C:\Users\sophi\Desktop\Annee2025-2026\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sophi\Desktop\Annee2025-2026\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.pdb
+C:\Users\sophi\Desktop\Annee2025-2026\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.AssemblyReference.cache
+C:\Users\sophi\Desktop\Annee2025-2026\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CoreCompileInputs.cache
+C:\Users\sophi\Desktop\Annee2025-2026\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassTha.61DBF0F0.Up2Date
+C:\Users\sophi\Desktop\Annee2025-2026\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.dll
+C:\Users\sophi\Desktop\Annee2025-2026\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.pdb
+C:\Users\sophi\Desktop\Annee2026-2027\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.dll
+C:\Users\sophi\Desktop\Annee2026-2027\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThaliTests.pdb
+C:\Users\sophi\Desktop\Annee2026-2027\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.dll
+C:\Users\sophi\Desktop\Annee2026-2027\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sophi\Desktop\Annee2026-2027\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\bin\Debug\ClassThali.pdb
+C:\Users\sophi\Desktop\Annee2026-2027\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.AssemblyReference.cache
+C:\Users\sophi\Desktop\Annee2026-2027\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CoreCompileInputs.cache
+C:\Users\sophi\Desktop\Annee2026-2027\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassTha.61DBF0F0.Up2Date
+C:\Users\sophi\Desktop\Annee2026-2027\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.dll
+C:\Users\sophi\Desktop\Annee2026-2027\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.pdb
