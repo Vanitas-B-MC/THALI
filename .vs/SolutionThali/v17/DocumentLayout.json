@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|c:\\users\\etudiant\\desktop\\github\\thali\\classthali\\miniexcursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|solutionrelative:classthali\\miniexcursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|c:\\users\\etudiant\\desktop\\github\\thali\\classthalitests\\miniexcursionplanifieetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|solutionrelative:classthalitests\\miniexcursionplanifieetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|C:\\Users\\etudiant\\Desktop\\Github\\THALI\\classthalitests\\miniexcursiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|solutionrelative:classthalitests\\miniexcursiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|C:\\Users\\etudiant\\Desktop\\Github\\THALI\\classthali\\miniexcursionplanifiee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|solutionrelative:classthali\\miniexcursionplanifiee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|C:\\Users\\etudiant\\Desktop\\Github\\THALI\\classthalitests\\etapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|solutionrelative:classthalitests\\etapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|c:\\users\\etudiant\\desktop\\github\\thali\\classthali\\miniexcursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|solutionrelative:classthali\\miniexcursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|C:\\Users\\etudiant\\Desktop\\Github\\THALI\\classthali\\etape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|C:\\Users\\etudiant\\Desktop\\Github\\THALI\\classthali\\planningjournee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB420F37-F99D-4837-85F5-37103EA36AE3}|ClassThali\\ClassThali.csproj|solutionrelative:classthali\\planningjournee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|C:\\Users\\etudiant\\Desktop\\Github\\THALI\\classthalitests\\miniexcursiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|solutionrelative:classthalitests\\miniexcursiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|C:\\Users\\etudiant\\Desktop\\Github\\THALI\\classthalitests\\etapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27B4F41-BC07-4095-BBF2-2DF1FFB220FF}|ClassThaliTests\\ClassThaliTests.csproj|solutionrelative:classthalitests\\etapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,36 +38,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MiniExcursionPlanifieeTests.cs",
+              "DocumentMoniker": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThaliTests\\MiniExcursionPlanifieeTests.cs",
+              "RelativeDocumentMoniker": "ClassThaliTests\\MiniExcursionPlanifieeTests.cs",
+              "ToolTip": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThaliTests\\MiniExcursionPlanifieeTests.cs",
+              "RelativeToolTip": "ClassThaliTests\\MiniExcursionPlanifieeTests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:17:59.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiniExcursionPlanifiee.cs",
+              "DocumentMoniker": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThali\\MiniExcursionPlanifiee.cs",
+              "RelativeDocumentMoniker": "ClassThali\\MiniExcursionPlanifiee.cs",
+              "ToolTip": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThali\\MiniExcursionPlanifiee.cs",
+              "RelativeToolTip": "ClassThali\\MiniExcursionPlanifiee.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:28:33.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MiniExcursion.cs",
               "DocumentMoniker": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThali\\MiniExcursion.cs",
               "RelativeDocumentMoniker": "ClassThali\\MiniExcursion.cs",
               "ToolTip": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThali\\MiniExcursion.cs",
               "RelativeToolTip": "ClassThali\\MiniExcursion.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAiwFQAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAywEMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T09:32:08.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MiniExcursionPlanifiee.cs",
-              "DocumentMoniker": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThali\\MiniExcursionPlanifiee.cs",
-              "RelativeDocumentMoniker": "ClassThali\\MiniExcursionPlanifiee.cs",
-              "ToolTip": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThali\\MiniExcursionPlanifiee.cs",
-              "RelativeToolTip": "ClassThali\\MiniExcursionPlanifiee.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T17:28:33.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PlanningJournee.cs",
               "DocumentMoniker": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThali\\PlanningJournee.cs",
               "RelativeDocumentMoniker": "ClassThali\\PlanningJournee.cs",
@@ -75,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Etape.cs",
               "DocumentMoniker": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThali\\Etape.cs",
               "RelativeDocumentMoniker": "ClassThali\\Etape.cs",
@@ -83,31 +105,34 @@
               "RelativeToolTip": "ClassThali\\Etape.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwDEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T17:21:46.32Z"
+              "WhenOpened": "2024-09-01T17:21:46.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "EtapeTests.cs",
               "DocumentMoniker": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThaliTests\\EtapeTests.cs",
               "RelativeDocumentMoniker": "ClassThaliTests\\EtapeTests.cs",
               "ToolTip": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThaliTests\\EtapeTests.cs",
               "RelativeToolTip": "ClassThaliTests\\EtapeTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T09:52:09.202Z"
+              "WhenOpened": "2024-09-05T09:52:09.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MiniExcursionTests.cs",
               "DocumentMoniker": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThaliTests\\MiniExcursionTests.cs",
               "RelativeDocumentMoniker": "ClassThaliTests\\MiniExcursionTests.cs",
               "ToolTip": "C:\\Users\\etudiant\\Desktop\\Github\\THALI\\ClassThaliTests\\MiniExcursionTests.cs",
               "RelativeToolTip": "ClassThaliTests\\MiniExcursionTests.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA7wC0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T16:50:53.458Z"
+              "WhenOpened": "2025-09-06T16:50:53.458Z",
+              "EditorCaption": ""
             }
           ]
         }

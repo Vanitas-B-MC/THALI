@@ -54,6 +54,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="EtapeTests.cs" />
+    <Compile Include="MiniExcursionPlanifieeTests.cs" />
     <Compile Include="MiniExcursionTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
