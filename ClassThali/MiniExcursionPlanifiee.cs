@@ -21,7 +21,9 @@ namespace ClassThali
         /// <param name="uneHeure">heure de départ de la mini-excursion</param>
         public MiniExcursionPlanifiee(string unCode, MiniExcursion uneMiniExcursion, DateTime uneHeure)
         {
-            //TODO
+            this.code = unCode;
+            this.laMiniExcursion = uneMiniExcursion;
+            this.heureDepart = uneHeure;
         }
 
         /// <summary>
@@ -30,8 +32,7 @@ namespace ClassThali
         /// <returns>code de la MEP</returns>
         public string GetCode()
         {
-            //TODO
-            return "";
+            return this.code;
         }
 
         /// <summary>
@@ -40,7 +41,7 @@ namespace ClassThali
         /// <param name="unNombre">Nombre de passagers insrits</param>
         public void SetNombreInscrits(int unNombre)
         {
-            //TODO
+            this.nombreInscrits = unNombre;
         }
 
         /// <summary>
